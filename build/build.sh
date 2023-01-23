@@ -4,7 +4,7 @@
 #
 # Current setup works on nginx, so you'll also need to install it
 #
-# First you need to clone it: https://github.com/tevvvy1999/website/
+# First you need to clone it: https://github.com/VickoSteish/website
 
 jekyll build --source ../mywebsite --destination /var/www/tevarotakamura.website
 cp -r ../build /var/www/tevarotakamura.website/
